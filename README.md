@@ -17,5 +17,5 @@ python3.8 ./main --URL-ORIGEN <URL-ORIGEN> --URL-DESTINO <URL-DESTINO> --NAVEGAD
 
 ```bash
 python3.8 -m pip install -r requirements.txt
-python3.8 ./main --URL-ORIGEN https://buenclub-frontend.stg.sportclub.com.ar/socios --URL-DESTINO https://buenclub-frontend.dev.sportclub.com.ar/socios --NAVEGADOR brave --PERFIL 6nmikg7p.default-release
+python3.8 ./main --URL-ORIGEN https://buenclub-frontend.stg.sportclub.com.ar/socios --URL-DESTINO https://buenclub-frontend.dev.sportclub.com.ar/socios --NAVEGADOR firefox --PERFIL 6nmikg7p.default-release
 ```
